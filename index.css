@@ -1,0 +1,15 @@
+#sss {
+    color: red;
+}
+
+.a {
+    color: blue;
+}
+
+.container {
+    display: flex;
+}
+
+.link {
+    flex: 1;
+}
